@@ -1,0 +1,11 @@
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.csprojResolveAssemblyReference.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.csproj.CoreCompileInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.AssemblyInfoInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.AssemblyInfo.cs
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Fundamentals_I\bin\Debug\netcoreapp2.0\Fundamentals_I.deps.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Fundamentals_I\bin\Debug\netcoreapp2.0\Fundamentals_I.runtimeconfig.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Fundamentals_I\bin\Debug\netcoreapp2.0\Fundamentals_I.runtimeconfig.dev.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Fundamentals_I\bin\Debug\netcoreapp2.0\Fundamentals_I.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Fundamentals_I\bin\Debug\netcoreapp2.0\Fundamentals_I.pdb
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.pdb
